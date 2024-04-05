@@ -1,0 +1,11 @@
+{
+    "cryptoPrices": {
+        "bitcoin": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd",
+        "usdt": "https://api.coingecko.com/api/v3/simple/price?ids=tether&vs_currencies=usd",
+        "PolygonPrice": "https://api.coingecko.com/api/v3/simple/price?ids=polygon-ecosystem-token&vs_currencies=usd"
+    },
+    "polygonMumbai": {
+        "rpcUrl": "https://polygon-mumbai-bor-rpc.publicnode.com",
+        "blockExplorerUrl":"https://polygon-mumbai.g.alchemy.com/v2/iDw6mOdnq1kUK5nDqUH_KHeUNgvUbXDr"
+    }
+}
